@@ -397,3 +397,5 @@ vcpkg_installed
 
 # CLION
 cmake-build-*
+# CUSTOM
+backup.sql
